@@ -50,7 +50,7 @@ h2 {
 ============================================================ */
 .navbar-brand{
    font-family: 'Gill Sans', sans-serif;
-   font-size: 28pt;
+   font-size: 20pt;
 
 }
 
@@ -58,14 +58,14 @@ h2 {
 03. Sections
 ============================================================ */
 #chicken{
-    background-image: url(https://images.creativemarket.com/0.1.0/ps/617567/910/1287/m2/fpnw/wm1/odqfesddgkqicxbpfgumwkadh4gjvpgzdnf464qtwq3jeuzzcb2dbksbavmatwis-.jpg?1440229111&s=6996bafb0d9d0c7ea1b06e4d2de1e0b4&fmt=webp);
+    background-image: url();
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
-    background-size: cover;
+    /*background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
-    -o-background-size: cover;
+    -o-background-size: cover;*/
 }
 #beef{
     background-image: url(../img/james-sutton-198306-unsplash1.png);

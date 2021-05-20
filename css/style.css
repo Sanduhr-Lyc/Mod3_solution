@@ -62,10 +62,10 @@ h2 {
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
-    /*background-size: cover;
+    background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
-    -o-background-size: cover;*/
+    -o-background-size: cover;
 }
 #beef{
     background-image: url(../img/james-sutton-198306-unsplash1.png);
@@ -88,8 +88,8 @@ h2 {
     -o-background-size: cover;
 }
 
-.text-justify.bg-dark.p-2{
-    opacity: 0.6;
+/*.text-justify.bg-dark.p-2{
+    opacity: 0.6;*/
 }
 
 /*end style*/
